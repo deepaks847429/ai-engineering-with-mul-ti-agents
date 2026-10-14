@@ -1,6 +1,13 @@
 # Phase 1 — LLM Basics (Module 1)
 
-> Topics copied from the main [roadmap](../README.md). Notes, exercises and solutions get added here when you reach this phase.
+> Topics copied from the main [roadmap](../README.md).
+
+## How to study this phase
+
+1. **[notes.md](notes.md)**: 9 short lessons in simple language. Explain each one out loud.
+2. **[exercises.py](exercises.py)**: 13 exercises, no API key needed. Run `python exercises.py` until you see `ALL PASSED`.
+   Stuck? Check [solutions.py](solutions.py), but only after a real try.
+3. **[INTERVIEW_QUESTIONS.md](INTERVIEW_QUESTIONS.md)**: 80 questions with answers. Answer out loud first, then compare.
 
 ### 1.1 What an LLM actually is (conceptual, no math yet)
 
